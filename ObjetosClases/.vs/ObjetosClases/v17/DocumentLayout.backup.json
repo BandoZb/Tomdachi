@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|d:\\udemyoficial_c#\\objetos\\objetosclases\\objetosclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|solutionrelative:objetosclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|d:\\udemyoficial_c#\\objetos\\objetosclases\\objetosclases\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|solutionrelative:objetosclases\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Humano.cs",
+              "DocumentMoniker": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Humano.cs",
+              "RelativeDocumentMoniker": "ObjetosClases\\Humano.cs",
+              "ToolTip": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Humano.cs",
+              "RelativeToolTip": "ObjetosClases\\Humano.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAWwCcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:29:41.302Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Program.cs",
+              "RelativeDocumentMoniker": "ObjetosClases\\Program.cs",
+              "ToolTip": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Program.cs",
+              "RelativeToolTip": "ObjetosClases\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:27:07.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
