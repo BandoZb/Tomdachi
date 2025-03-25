@@ -5,3 +5,10 @@ D:\UdemyOficial_C#\Objetos\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.c
 D:\UdemyOficial_C#\Objetos\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.csproj.CoreCompileInputs.cache
 D:\UdemyOficial_C#\Objetos\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.exe
 D:\UdemyOficial_C#\Objetos\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.pdb
+D:\Tomodachi\ObjetosClases\ObjetosClases\bin\Debug\ObjetosClases.exe.config
+D:\Tomodachi\ObjetosClases\ObjetosClases\bin\Debug\ObjetosClases.exe
+D:\Tomodachi\ObjetosClases\ObjetosClases\bin\Debug\ObjetosClases.pdb
+D:\Tomodachi\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.csproj.AssemblyReference.cache
+D:\Tomodachi\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.csproj.CoreCompileInputs.cache
+D:\Tomodachi\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.exe
+D:\Tomodachi\ObjetosClases\ObjetosClases\obj\Debug\ObjetosClases.pdb

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\",
+  "WorkspaceRootPath": "D:\\Tomodachi\\ObjetosClases\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|d:\\udemyoficial_c#\\objetos\\objetosclases\\objetosclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|solutionrelative:objetosclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObjetosClases\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|d:\\udemyoficial_c#\\objetos\\objetosclases\\objetosclases\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A457051-CB9F-40BF-BFC1-F2FC4F6BB57F}|ObjetosClases\\ObjetosClases.csproj|solutionrelative:objetosclases\\humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObjetosClases\\Humano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Humano.cs",
-              "DocumentMoniker": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Humano.cs",
+              "DocumentMoniker": "D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Humano.cs",
               "RelativeDocumentMoniker": "ObjetosClases\\Humano.cs",
-              "ToolTip": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Humano.cs",
+              "ToolTip": "D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Humano.cs",
               "RelativeToolTip": "ObjetosClases\\Humano.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAjwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAiwAkBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T11:29:41.302Z",
               "IsPinned": true,
@@ -38,11 +38,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Program.cs",
+              "DocumentMoniker": "D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Program.cs",
               "RelativeDocumentMoniker": "ObjetosClases\\Program.cs",
-              "ToolTip": "D:\\UdemyOficial_C#\\Objetos\\ObjetosClases\\ObjetosClases\\Program.cs",
+              "ToolTip": "D:\\Tomodachi\\ObjetosClases\\ObjetosClases\\Program.cs",
               "RelativeToolTip": "ObjetosClases\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T11:27:07.86Z",
               "EditorCaption": ""

@@ -23,8 +23,8 @@ namespace ObjetosClases
         private int fuerza;
         private int cardio;
 
-        bool vivo = true;
-        bool win = false;
+        bool vivo;
+        bool win;
 
         public Humano(string nombre, string apellido, int edad, string sexo, int altura)
         {
@@ -40,6 +40,9 @@ namespace ObjetosClases
             fuerza = 0;
             cardio = 0;
 
+            vivo = true;
+            win = false;
+
         }
 
 
@@ -52,7 +55,7 @@ namespace ObjetosClases
             else
             {
                 Console.WriteLine("Has bebido agua, puntos de agua = {0}",agua);
-                agua += 10;
+                agua += 25;
                 sueño -= 5;
                 comida -= 5;
             }
@@ -68,16 +71,16 @@ namespace ObjetosClases
             else
             {
                 Console.WriteLine("Has comido, puntos de comida = {0}", comida);
-                comida += 5;
+                comida += 30;
                 sueño -= 15;
-                agua -= 10;
+                agua -= 5;
             }
 
         }
 
         public void Dormir()
         {
-            if (agua > 85)
+            if (sueño > 85)
             {
                 Console.WriteLine("No tienes nada de sueño");
             }
@@ -85,7 +88,7 @@ namespace ObjetosClases
             {
                 Console.WriteLine("Has dormido, puntos de sueño = {0}", sueño);
                 agua -= 15;
-                sueño += 15;
+                sueño += 60;
                 comida -= 10;
             }
 
@@ -93,18 +96,14 @@ namespace ObjetosClases
 
         public void EntrenarBanca()
         {
-            if (fuerza >= 100)
-            {
-                Console.WriteLine("Felicidades, lograste los 100 en banca ");
-            }
-            else
-            {
-                Console.WriteLine("Has entrenado fuerte, levantas = {0} en banca", fuerza);
+            
                 agua -= 20;
                 sueño -= 20;
                 comida -= 20;
                 fuerza += 10;
-            }
+
+            Console.WriteLine("Has entrenado fuerte, levantas = {0} en banca", fuerza);
+
 
         }
 
@@ -121,6 +120,7 @@ namespace ObjetosClases
                 sueño -= 20;
                 comida -= 20;
                 fuerza -= 5;
+                cardio += 15;
             }
 
         }
@@ -129,19 +129,26 @@ namespace ObjetosClases
 
         public void Morir()
         {
-            if (agua == 0 || comida == 0 || sueño == 0)
+            if (agua <= 0 || comida <= 0 || sueño <= 0)
             {
                 vivo = false;
+
+                Console.WriteLine("Has muerto... Aprende a cuidarlo mejor");
             }
         }
 
         public void FinalizarJuego()
         {
-            if (fuerza >= 100 || cardio >= 100)
-                {
+            if (fuerza >= 100)
+            {
                 win = true;
-                }
-               
+                Console.WriteLine("¡Felicidades! Levantas 100 en banca por fin.");
+            }
+            else if (cardio >= 100)
+            {
+                win = true;
+                Console.WriteLine("¡Felicidades! Conseguiste el cardio que querías.");
+            }
         }
 
 
